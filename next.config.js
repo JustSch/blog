@@ -7,7 +7,7 @@ const withNextra = require('nextra')({
 
 const nextConfig = {
   // any configs you need
-  basePath: '/blog/',
+  basePath: '/blog',
 }
 
 module.exports = withNextra(nextConfig)
