@@ -11,11 +11,11 @@ export default function App({ Component, pageProps }: AppProps) {
           rel="alternate"
           type="application/rss+xml"
           title="RSS"
-          href="/feed.xml"
+          href="/blog/feed.xml"
         />
         <link
           rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
+          href="/blog/fonts/Inter-roman.latin.var.woff2"
           as="font"
           type="font/woff2"
           crossOrigin="anonymous"
