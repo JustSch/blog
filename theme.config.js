@@ -1,6 +1,12 @@
 const YEAR = new Date().getFullYear()
 
-export default {
+export default {  
+  navs: [
+    {
+      url: 'https://justsch.github.io/',
+      name: 'Portfolio'
+    }
+  ],
   footer: (
     <footer>
       <small >
@@ -18,4 +24,5 @@ export default {
       `}</style>
     </footer>
   ),
+  darkMode: true
 }
