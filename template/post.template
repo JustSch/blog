@@ -1,0 +1,7 @@
+---
+title:
+date:  ${timestamp}
+description: 
+tag: blog post
+author: ${author}
+---
