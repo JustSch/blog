@@ -2,7 +2,7 @@
 title: Making An Old Nexus 7(2012) Useful In 2020
 date: 2020-07-29 17:45:20
 description: Making An Old Nexus 7(2012) Useful In 2020
-tags:
+tag:
   - blog_post
 author: Justin Schreiber
 ---
