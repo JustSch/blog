@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next",
     "build": "node ./scripts/gen-rss.js && next build",
+    "build-no-rss": "next build",
     "export":"next export",
     "start": "next start"
   },
