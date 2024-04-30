@@ -1,8 +1,9 @@
 ---
-title:  "Underconstruction"
-date:   2020-07-11 21:42:58
+title: Underconstruction
+date: 2020-07-11 21:42:58
 description: initial page
-tag: development
+tags:
+  - blog_post
 author: Justin Schreiber
 ---
 
