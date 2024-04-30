@@ -7,7 +7,7 @@ author: Justin Schreiber
 ---
 
 # Introduction
-If for some reason you are holding on to this old tablet, and refuse to upgrade to an iPad like a normal person, here are some steps you can take to my make your old tablet more useful. The Nexus 7 was unfortunatley left with a slow unusuable version of Android Lollipop (5.1.1) before it was discontinued but, there is an easy way to fix that and even run Android Nougat
+If for some reason you are holding on to this old tablet, and refuse to upgrade to an iPad like a normal person, here are some steps you can take to my make your old tablet more useful. The Nexus 7 was unfortunately left with a slow unusable version of Android Lollipop (5.1.1) before it was discontinued but, there is an easy way to fix that and even run Android Nougat
 
 # Important Notes 
 
